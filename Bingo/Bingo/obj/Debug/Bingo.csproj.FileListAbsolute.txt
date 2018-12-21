@@ -1,0 +1,7 @@
+C:\Users\Gemino\source\repos\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\Users\Gemino\source\repos\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\Gemino\source\repos\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\Gemino\source\repos\Bingo\Bingo\obj\Debug\Bingo.csprojAssemblyReference.cache
+C:\Users\Gemino\source\repos\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\Gemino\source\repos\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\Gemino\source\repos\Bingo\Bingo\obj\Debug\Bingo.pdb
